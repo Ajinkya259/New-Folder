@@ -1,11 +1,8 @@
-<h1 align="center">Pearl Of The Indian Ocean <br>Responsive Tourist Website Project </h1>
+<h1 align="center">Traditional Trailss of India <br>Responsive Tourist Website Project </h1>
 
-<div align="center">
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bbe848c9-a3b7-453e-ae25-768328b98edd">
-</div>
-  
+
 ### Description 
-<p align="justify"> Welcome to our Sri Lanka Travel Guide! Discover the finest destinations in every district of this beautiful island nation. Our website blends stunning imagery with informative content, ensuring an immersive experience for all tourists.</p>
+<p align="justify"> Welcome to Traditional Trailss of India! Discover the finest destinations in every district of this beautiful island nation. Our website blends stunning imagery with informative content, ensuring an immersive experience for all tourists.</p>
 
 ### Key Features
 - District Highlights: Explore the top attractions in each district, handpicked for an unforgettable journey.
@@ -79,55 +76,8 @@ I have used only front-end web technologies like
 - Atom Code Editor    
 - Microsoft Visual Studio Code
 - Video Editing Software
-  
-### Test Results
-**Home Page:** 
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/7183ee19-872f-4a0f-9984-53183cb8dc45">
-
-
-**Service Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/d67a10d8-8e12-466d-a42d-6cada277644e">
-
-**About Us Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/4e8e5a37-4a01-4e3f-95f0-5b322b980896">
-
-
-**Places Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/05b74d04-cc86-45ea-b596-6a9928b79aff">
-
-
-**To-Do List Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bafade30-1a96-42a5-bbe7-c4518b53fc00">
-
-**Contact Us Page :**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/0764ae49-6428-4944-a87e-566a05ea8754">
-
-
-**Info:** 
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/967bbb8b-f16c-4e0c-b27d-15d325af8e44">
-
-
 
 ### Conclusion
-<p align="justify">This website for tourists visiting Sri Lanka is a promising project that leverages a combination of web technologies to provide valuable information and services to travellers. Despite facing initial challenges, such as learning Vue.js and design complexities as a first-time developer, you have made significant progress in creating a user-friendly and visually appealing platform.</p>
+<p align="justify">This website for tourists visiting India is a promising project that leverages a combination of web technologies to provide valuable information and services to travellers. Despite facing initial challenges, such as learning Vue.js and design complexities as a first-time developer, you have made significant progress in creating a user-friendly and visually appealing platform.</p>
 
 <p>The use of HTML, CSS, JavaScript, and Vue.js allows you to structure content, style the website, enhance interactivity, and create dynamic components like the To-Do section. Images and videos add visual richness and depth to your site, helping tourists better understand and appreciate the beauty of Sri Lanka's districts. The JavaScript-powered query system and the inclusion of "About Us" and "Contact Us" pages further enhance the user experience by facilitating communication and feedback. </p>
-
-### 💖 Support
-
-<p>You can show your support by starring this project. ⭐</p>
-<a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/stargazers">
-  <img src="https://img.shields.io/github/stars/rihamnazeer/Pearl-Of-The-Indian-Ocean?style=social" alt="Github Star">
-</a>
-
-### 💡 Contribute
-
-<a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/blob/main/CONTRIBUTING.md">
-   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
-</a>
-    
-### 📄 License
-
- <a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/rihamnazeer/Pearl-Of-The-Indian-Ocean"/>
-</a>
